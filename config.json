@@ -1,0 +1,4 @@
+{
+    "port": "8081",
+    "dburi": "postgres://gouser:123@172.17.0.2/gotestdb?sslmode=disable"
+}
